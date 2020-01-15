@@ -1,2 +1,3 @@
 # dvn-ingest
-Java-based ingest package for the Dataverse Network Project (as of July 2009) archived
+
+This is the no-longer-maintained Java-based ingest package that was coded for the Dataverse Network Project in 2009.
